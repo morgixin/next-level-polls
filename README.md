@@ -1,8 +1,12 @@
-# Polls
+# :rocket: Next Level Polls
 
-A project to handle polls using NodeJS.
+An app to handle polls using Node.js and Typescript, based on the Next Level Week Expert class "Trilha Node.js".
 
 ## Technologies used
 
-Fastify framework, Docker for Container handling, Prisma ORM to help with database queries and migrations, Postgres as the main db and Redis to store and get vote counting faster.
-To handle requests, I used Hoppscotch API.
+- Fastify;
+- Docker;
+- Prisma ORM;
+- WebSocket;
+- Zod;
+- PostgreSQL and Redis database.
