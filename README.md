@@ -10,3 +10,7 @@ An app to handle polls using Node.js and Typescript, based on the Next Level Wee
 - WebSocket;
 - Zod;
 - PostgreSQL and Redis database.
+
+## Tasks
+
+- [ ] Develop a UI;
